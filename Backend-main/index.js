@@ -21,6 +21,10 @@ app.use("/", contactRouter);
 app.use("/", registrationRouter);
 app.use("/", buyRouter);
 
+app.get("/",(req,res)=>{
+    res.send("Welcome to Aichergipt");
+})
+
 
 app.listen(port, () => {
     console.log("Server is listening at the port", port);
