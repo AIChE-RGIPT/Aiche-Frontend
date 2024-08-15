@@ -30,4 +30,6 @@ router.post('/registration', upload.single('CV'), (req, res, next) => {
     saveRegistration(req, res, next);
 });
 
+router.get("/registration", (req, res) => { res.send("registration router established") });
+
 module.exports = router;
