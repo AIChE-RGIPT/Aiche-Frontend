@@ -11,7 +11,7 @@ let port = process.env.PORT || 5000;
 
 app.use(cors(
     {
-        origin : [],
+        origin : ["https://aiche-rgipt.vercel.app"],
         methods : ["POST", "GET"],
         credentials :true
     }
