@@ -9,7 +9,13 @@ const buyRouter = require('./routes/buy.js');
 
 let port = process.env.PORT || 5000;
 
-app.use(cors()); 
+app.use(cors(
+    {
+        origin : [],
+        methods : ["POST", "GET"],
+        credentials :true
+    }
+)); 
 app.use(express.json()); 
 app.use("/", contactRouter);
 app.use("/", registrationRouter);
