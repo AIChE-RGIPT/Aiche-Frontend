@@ -10,16 +10,12 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.use(cors({
-    origin: "https://www.aichergipt.com", // Allow the frontend origin
-    methods: ["POST", "GET", "OPTIONS"],  // Include OPTIONS method
-    credentials: true,
-    allowedHeaders: ["Content-Type", "Authorization", "Access-Control-Allow-Credentials"],
+    origin: ["https://www.aichergipt.com"], 
+    methods: ["POST", "GET"],
+    credentials: true
 }));
 
 app.use(express.json());
-
-// Ensure that OPTIONS requests are handled properly
-app.options("*", cors());
 
 // Apply routers
 app.use("/", contactRouter);
