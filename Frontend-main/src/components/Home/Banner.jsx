@@ -15,7 +15,7 @@ const Banner = () => {
         style={{ height: "83vh" }}
       >
         <h1 className="text-amber-400 text-center font-extrabold my-2 dynamic-text text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
-          Institute of Chemical Engineers
+          American Institute of Chemical Engineers
         </h1>
         <div className="flex items-center justify-center flex-col md:flex-row">
           <img
