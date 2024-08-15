@@ -13,7 +13,7 @@ function National() {
             <img
               src="../../National/1.png"
               alt="AIChE SVNIT Interaction"
-              className="rounded-xl"
+              className="rounded-xl w-96 h-96"
             />
           </figure>
           <div className="card-body items-center text-center">
@@ -30,7 +30,7 @@ function National() {
             <img
               src="../../National/2.png"
               alt="AIChE GSFCU SC Interaction"
-              className="rounded-xl"
+              className="rounded-xl w-96 h-96"
             />
           </figure>
           <div className="card-body items-center text-center">
@@ -43,11 +43,11 @@ function National() {
         </div>
 
         <div className="card w-full bg-base-100 shadow-xl container">
-          <figure className="px-10 pt-10">
+          <figure className="px-10 pt-10 ">
             <img
               src="../../National/3.png"
               alt="AIChE BMSCE SC Interaction"
-              className="rounded-xl"
+              className="rounded-xl w-96 h-96"
             />
           </figure>
           <div className="card-body items-center text-center">
@@ -64,7 +64,7 @@ function National() {
             <img
               src="../../National/6.png"
               alt="AIChE VIT SC Interaction"
-              className="rounded-xl"
+              className="rounded-xl w-96 h-96"
             />
           </figure>
           <div className="card-body items-center text-center">
@@ -76,14 +76,12 @@ function National() {
           </div>
         </div>
 
-        
-
         <div className="card w-full bg-base-100 shadow-xl container">
           <figure className="px-10 pt-10">
             <img
               src="../../Events/6.png"
               alt="AIChE VIT SC Interaction"
-              className="rounded-xl"
+              className="rounded-xl w-96 h-96"
             />
           </figure>
           <div className="card-body items-center text-center">
