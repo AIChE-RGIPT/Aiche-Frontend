@@ -22,11 +22,12 @@ function Main() {
       let response = await fetch("https://aiche-rgipt-api.vercel.app/contact", {
         method: "POST",
         headers: {
-          "Content-Type": "application/json",
+            "Content-Type": "application/json",
         },
         body: JSON.stringify(form),
+        mode: 'cors' // Ensure this is set to 'cors'
       });
-
+      
       if (response.ok) {
         toast.success("Contact information sent successfully");
         setForm({
