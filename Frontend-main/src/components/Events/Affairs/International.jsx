@@ -28,16 +28,18 @@ function International() {
         <div className="card w-full bg-base-100 shadow-xl container">
           <figure className="px-10 pt-10">
             <img
-              src="../../International/2.png"
-              alt="AIChE TUFTS SC Interaction"
+              src="../../Events/5.png"
+              alt="AIChE Unal Med SC Interaction"
               className="rounded-xl h-80 w-96"
             />
           </figure>
           <div className="card-body items-center text-center">
-            <h2 className="card-title">Interaction with AIChE TUFTS SC</h2>
+            <h2 className="card-title">
+              Interactive meet between AIChE RGIPT and AIChE UI
+            </h2>
             <p>
-              Engaging with Tufts' AIChE Student Chapter to share insights and
-              drive collaborative research initiatives.
+              In a productive session with AIChE University of Indonesia, we
+              exchanged information about our Student Chapters and institutions.
             </p>
           </div>
         </div>
@@ -96,22 +98,19 @@ function International() {
         <div className="card w-full bg-base-100 shadow-xl container">
           <figure className="px-10 pt-10">
             <img
-              src="../../Events/5.png"
-              alt="AIChE Unal Med SC Interaction"
+              src="../../International/2.png"
+              alt="AIChE TUFTS SC Interaction"
               className="rounded-xl h-80 w-96"
             />
           </figure>
           <div className="card-body items-center text-center">
-            <h2 className="card-title">
-              Interactive meet between AIChE RGIPT and AIChE UI
-            </h2>
+            <h2 className="card-title">Interaction with AIChE TUFTS SC</h2>
             <p>
-              In a productive session with AIChE University of Indonesia, we
-              exchanged information about our Student Chapters and institutions.
+              Engaging with Tufts' AIChE Student Chapter to share insights and
+              drive collaborative research initiatives.
             </p>
           </div>
         </div>
-
       </div>
     </>
   );
