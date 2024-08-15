@@ -1,6 +1,7 @@
 {
   "name": "frontend",
   "private": true,
+  "proxy" : "https://aiche-rgipt-5l7s.vercel.app",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
