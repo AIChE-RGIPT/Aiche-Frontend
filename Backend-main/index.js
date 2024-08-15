@@ -1,19 +1,19 @@
 require('dotenv').config();
 
 const express = require('express');
-const app = express();
 const cors = require('cors');
 const contactRouter = require('./routes/contact.js');
 const registrationRouter = require('./routes/registration.js');
 const buyRouter = require('./routes/buy.js');
 
-let port = process.env.PORT || 5000;
+const app = express();
+const port = process.env.PORT || 5000;
 
 app.use(cors({
     origin: "https://www.aichergipt.com", // Allow the frontend origin
     methods: ["POST", "GET", "OPTIONS"],  // Include OPTIONS method
     credentials: true,
-    allowedHeaders: ["Content-Type", "Authorization"], // Allow necessary headers
+    allowedHeaders: ["Content-Type", "Authorization", "Access-Control-Allow-Credentials"],
 }));
 
 app.use(express.json());
@@ -31,5 +31,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log("Server is listening at the port", port);
+    console.log("Server is listening at port", port);
 });
