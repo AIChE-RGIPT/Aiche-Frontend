@@ -9,9 +9,10 @@ const buyRouter = require('./routes/buy.js');
 const app = express();
 const port = process.env.PORT || 5000;
 
+// CORS middleware
 app.use(cors({
     origin: ["https://www.aichergipt.com"], 
-    methods: ["POST", "GET"],
+    methods: ["POST", "GET", "OPTIONS"], // Include OPTIONS for preflight requests
     credentials: true
 }));
 
@@ -26,6 +27,7 @@ app.get("/", (req, res) => {
     res.send("Welcome to Aichergipt");
 });
 
+// Start the server
 app.listen(port, () => {
     console.log("Server is listening at port", port);
 });
