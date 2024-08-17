@@ -19,7 +19,7 @@ function Main() {
   const handleSubmit = async (event) => {
     event.preventDefault();
     try {
-      let response = await fetch("https://aiche-rgipt-api.vercel.app/contact", {
+      let response = await fetch("https://aiche-backend-1.onrender.com/contact", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
