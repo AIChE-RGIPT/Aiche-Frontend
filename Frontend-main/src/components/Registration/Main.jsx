@@ -26,7 +26,7 @@ function Main() {
     formData.append("CV", form.CV);
 
     try {
-      let response = await fetch("https://aiche-rgipt-api.vercel.app/registration", {
+      let response = await fetch("https://aiche-backend-1.onrender.com/registration", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
