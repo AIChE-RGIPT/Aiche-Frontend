@@ -2,12 +2,12 @@
   "version": 2,
   "rewrites": [
     {
-      "source": "/api/(.*)",  // API routes
-      "destination": "https://aiche-rgipt-api.vercel.app/api/$1" // Forward to your backend
+      "source": "/api/(.*)",  
+      "destination": "https://aiche-rgipt-api.vercel.app/api/$1" 
     },
     {
-      "source": "/(.*)",  // All other routes
-      "destination": "/"   // Serve the frontend
+      "source": "/(.*)",  
+      "destination": "/"  
     }
   ]
 }
