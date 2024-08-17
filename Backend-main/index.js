@@ -10,7 +10,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.use(cors({
-    origin: ["https://www.aichergipt.com/"], 
+    origin: ["https://www.aichergipt.com"], 
     methods: ["POST", "GET"],
     credentials: true
 }));
