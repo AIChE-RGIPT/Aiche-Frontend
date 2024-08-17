@@ -28,10 +28,7 @@ function Main() {
     try {
       let response = await fetch("https://aiche-backend-1.onrender.com/registration", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(form),
+        body: formData, // Use formData directly
       });
 
       if (response.ok) {
@@ -47,6 +44,7 @@ function Main() {
       }
     } catch (error) {
       console.error("Error:", error);
+      toast.error("An unexpected error occurred");
     }
   };
 
