@@ -10,12 +10,14 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 // CORS middleware
-app.use(cors({
-    origin: ["https://www.aichergipt.com"], 
-    methods: ["POST", "GET", "OPTIONS"], // Include OPTIONS for preflight requests
-    credentials: true
-}));
+const corsOptions = {
+  origin: 'https://aichergipt.com',
+  methods: 'GET, HEAD, PUT, PATCH, POST, DELETE',
+  credentials: true,
+  optionsSuccessStatus: 204
+};
 
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Apply routers
