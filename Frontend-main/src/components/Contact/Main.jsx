@@ -19,7 +19,7 @@ function Main() {
   const handleSubmit = async (event) => {
     event.preventDefault();
     try {
-      let response = await fetch("https://aiche-rgipt-5l7s.vercel.app/contact", {
+      let response = await fetch("https://aiche-rgipt.vercel.app/contact", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
