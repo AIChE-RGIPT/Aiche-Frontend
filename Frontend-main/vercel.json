@@ -1,1 +1,13 @@
-{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/api/(.*)",  // API routes
+      "destination": "https://aiche-rgipt-api.vercel.app/api/$1" // Forward to your backend
+    },
+    {
+      "source": "/(.*)",  // All other routes
+      "destination": "/"   // Serve the frontend
+    }
+  ]
+}
