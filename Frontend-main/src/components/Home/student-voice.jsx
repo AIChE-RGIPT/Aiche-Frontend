@@ -22,27 +22,25 @@ function Testimonials() {
           <div className="p-0 md:p-6 xl:col-span-3">
             <div className="grid gap-4 md:grid-cols-2">
               <div className="grid content-center gap-4 ">
-                <div className="p-6 rounded shadow-md bg-gray-50 container">
+                <div className="p-7 rounded shadow-md bg-gray-50 container">
                   <p>
-                    Two years now working with the AIChE-RGIPT fraternity and I
-                    have seen it only growing in stature... Hi, I am Arik Parui,
-                    the current Overall Coordinator of the chapter. Working with
-                    this chapter has been a real life-altering experience for me
-                    by all measures . Our chapter
-                    nurtures the students to achieve height of the success.
+                  Being the K-12 officer, I am committed to fostering enthusiasm for chemical engineering amongst the young learners.
+                   Through interactive workshops, STEM activities, 
+                   and mentorship programs we are building a foundation for a sustainable and technologically advanced future.
+                  
                   </p>
                   <div className="flex items-center mt-4 space-x-4 ">
                     <img
-                      src="../../arik.jpg"
+                      src="../../adarsh.jpg"
                       alt=""
                       className="w-12 h-12 bg-center bg-cover rounded-full bg-gray-500"
                     />
                     <div>
                       <p className="text-lg font-semibold text-amber-600">
-                        Arik Parui
+                        Adarsh Upadhyay
                       </p>
                       <p className="text-sm text-gray-600">
-                        Overall coordinator
+                        K-12 Officer
                       </p>
                     </div>
                   </div>
