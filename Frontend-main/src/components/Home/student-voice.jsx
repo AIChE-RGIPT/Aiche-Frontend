@@ -72,7 +72,7 @@ function Testimonials() {
               <div className="grid content-center gap-4">
                 <div className="p-6 rounded shadow-md bg-gray-50 container">
                   <p>
-                    Grab as many opportunities as you got !!" As a member of the
+                    "Grab as many opportunities as you've got!" As a member of the
                     International Relations Committee, I love connecting with
                     people globally. It's been an amazing journey that's helped
                     me grow and learn so much about the field. Working with such
