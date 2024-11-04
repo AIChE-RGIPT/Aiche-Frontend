@@ -5,7 +5,7 @@ function slider() {
     <div>
       <div className="carousel w-full">
         <div id="item1" className="carousel-item w-full rounded-3xl">
-          <img src="../../img11.JPG" className="w-full image" />
+          <img src="../../src12-01.png" className="w-full image" />
         </div>
         <div id="item2" className="carousel-item w-full rounded-3xl">
           <img src="../../img2.JPG" className="w-full image" />
