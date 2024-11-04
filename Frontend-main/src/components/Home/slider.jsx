@@ -14,7 +14,7 @@ function slider() {
           <img src="../../img6.JPG" className="w-full image" />
         </div>
         <div id="item4" className="carousel-item w-full rounded-3xl">
-          <img src="../../img7.JPG" className="w-full image" />
+          <img src="../../Webinar.png" className="w-full image" />
         </div>
         <div id="item5" className="carousel-item w-full rounded-3xl">
           <img src="../../img8.JPG" className="w-full image" />
