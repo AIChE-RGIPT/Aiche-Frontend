@@ -31,7 +31,7 @@ function Members() {
             />
 
             <time className="font-mono italic">
-              International Relations Officer
+              International Relations Committee
             </time>
             <div className="text-lg font-black mb-2">Astha Yadav</div>
             <a
@@ -66,7 +66,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Research & Development Officer</time>
+            <time className="font-mono italic">Research & Development Committee</time>
             <div className="text-lg font-black mb-2">VISHAL TIWARI</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -100,7 +100,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Research & Development Officer</time>
+            <time className="font-mono italic">Research & Development Committee</time>
             <div className="text-lg font-black mb-2">Aditya Kashyap</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -134,7 +134,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Editorial Officer</time>
+            <time className="font-mono italic">Editorial Committee</time>
             <div className="text-lg font-black mb-2">Mayank Gupta</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -169,7 +169,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Editorial Officer</time>
+            <time className="font-mono italic">Editorial & Documentation Committee</time>
             <div className="text-lg font-black mb-2">Upasana Yadav</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -204,7 +204,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Event Management Officer</time>
+            <time className="font-mono italic">Event Management Committee</time>
             <div className="text-lg font-black mb-2">Aditya kumar</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -239,7 +239,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Event Management Officer</time>
+            <time className="font-mono italic">Event Management Committee</time>
             <div className="text-lg font-black mb-2">Rajnandani</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -274,7 +274,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Designing Officer</time>
+            <time className="font-mono italic">Designing Committee</time>
             <div className="text-lg font-black mb-2">Arin Kumar</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -309,7 +309,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Designing Officer</time>
+            <time className="font-mono italic">Designing Committee</time>
             <div className="text-lg font-black mb-2">Mansi Sisodiya</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -344,7 +344,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">K-12 Officer</time>
+            <time className="font-mono italic">K-12 Committee</time>
             <div className="text-lg font-black mb-2">Ayush Patel</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -379,7 +379,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">K-12 Officer</time>
+            <time className="font-mono italic">K-12 Committee</time>
             <div className="text-lg font-black mb-2">Adarsh Upadhyay</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -414,7 +414,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Public Relations Officer</time>
+            <time className="font-mono italic">Public Relations Committee</time>
             <div className="text-lg font-black mb-2">Satyam Kukrele</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -449,7 +449,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Public Relations Officer</time>
+            <time className="font-mono italic">Public Relations Committee</time>
             <div className="text-lg font-black mb-2">Khushi soni</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -484,7 +484,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Operations</time>
+            <time className="font-mono italic">Operations & Publications Committee</time>
             <div className="text-lg font-black mb-2">Sreenidhi</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
@@ -519,7 +519,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Operations and Publications Officer</time>
+            <time className="font-mono italic">Operations & Publications Committee</time>
             <div className="text-lg font-black mb-2">Gunjan Kumari</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
