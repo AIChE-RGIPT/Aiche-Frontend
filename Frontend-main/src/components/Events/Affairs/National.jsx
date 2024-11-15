@@ -89,7 +89,7 @@ function National() {
             <h2 className="card-title ">Interaction with AIChE ICT-IOCB SC</h2>
             <p>
               Interacting with AIChE ICT-IOCB Student Chapter to share experiences
-              and insights on chemical engineering education and the Student Region Conference 2024.
+              and insights on chemical engineering education and the Student Regional Conference 2024.
             </p>
           </div>
         </div>
