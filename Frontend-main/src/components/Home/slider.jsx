@@ -11,10 +11,10 @@ function slider() {
           <img src="../../IMG_002.JPG" className="w-full image" />
         </div>
         <div id="item3" className="carousel-item w-full rounded-3xl">
-          <img src="../../img6.JPG" className="w-full image" />
+          <img src="../../s-3.png" className="w-full image" />
         </div>
         <div id="item4" className="carousel-item w-full rounded-3xl">
-          <img src="../../img7.JPG" className="w-full image" />
+          <img src="../../s-4.png" className="w-full image" />
         </div>
         <div id="item5" className="carousel-item w-full rounded-3xl">
           <img src="../../img8.JPG" className="w-full image" />
