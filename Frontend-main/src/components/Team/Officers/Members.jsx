@@ -129,7 +129,7 @@ function Members() {
           </div>
           <div className="timeline-end md:w-80 w-72 rounded-3xl manual-shadow p-4 flex justify-center items-center flex-col bg-slate-50">
             <img
-              src="../../mayank2.JPG"
+              src="../../Mayank.jpg"
               alt="Mayank Gupta"
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
