@@ -52,7 +52,7 @@ function Leaders() {
             <img
               src="../../harshit.JPG"
               alt="Harshit Vishwakarma"
-              className="object-cover h-36 mb-10 w-full rounded-t-3xl manual-shadow2"
+              className="object-cover h-36 mb-12 w-full rounded-t-3xl manual-shadow2"
             />
           </div>
           <div className="text-2xl font-semibold mt-4">Harshit Vishwakarma</div>
