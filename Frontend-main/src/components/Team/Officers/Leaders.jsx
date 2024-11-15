@@ -56,7 +56,7 @@ function Leaders() {
             />
           </div>
           <div className="text-2xl font-semibold mt-4">Harshit Vishwakarma</div>
-          <time className="font-mono italic font-bold ">"International Relations Officer"</time>
+          <time className="font-mono italic font-bold ">"  International Relations Officer  "</time>
           <a
             className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl "
             href="https://www.linkedin.com/in/harshit-vishwakarma-19285025a/"
