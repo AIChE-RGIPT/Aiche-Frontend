@@ -11,7 +11,7 @@ function National() {
         <div className="card w-full bg-base-100 shadow-xl container">
           <figure className="px-10 pt-10">
             <img
-              src="../../National/1.png"
+              src="../../National/SVNIT.png"
               alt="AIChE SVNIT Interaction"
               className="rounded-xl w-96 h-96"
             />
