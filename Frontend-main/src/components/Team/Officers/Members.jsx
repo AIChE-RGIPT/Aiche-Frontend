@@ -304,7 +304,7 @@ function Members() {
           </div>
           <div className="timeline-start md:w-80 w-72 md:text-end mb-10 mx-4 rounded-3xl manual-shadow p-4 flex justify-center items-center flex-col bg-slate-50">
             <img
-              src="../../mansi.jpeg"
+              src="../../Mansi_Sisodiya.jpg"
               alt="Mansi Sisodiya"
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
