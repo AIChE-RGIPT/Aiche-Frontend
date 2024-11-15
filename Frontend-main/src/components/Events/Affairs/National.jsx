@@ -86,7 +86,7 @@ function National() {
             />
           </figure>
           <div className="card-body items-center text-center">
-            <h2 className="card-title ">Interaction with AIChE VIT SC</h2>
+            <h2 className="card-title ">Interaction with AIChE ICT-IOCB SC</h2>
             <p>
               Interacting with AIChE ICT-IOCB Student Chapter to share experiences
               and insights on chemical engineering education and the Student Region Conference 2024.
