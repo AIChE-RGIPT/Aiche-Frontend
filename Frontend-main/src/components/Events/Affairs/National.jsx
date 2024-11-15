@@ -76,6 +76,24 @@ function National() {
           </div>
         </div>
 
+
+         <div className="card w-full bg-base-100 shadow-xl container">
+          <figure className="px-10 pt-10">
+            <img
+              src="../../National/ICTIOCB.png"
+              alt="AIChE VIT SC Interaction"
+              className="rounded-xl w-96 h-96"
+            />
+          </figure>
+          <div className="card-body items-center text-center">
+            <h2 className="card-title ">Interaction with AIChE VIT SC</h2>
+            <p>
+              Interacting with AIChE ICT-IOCB Student Chapter to share experiences
+              and insights on chemical engineering education and the Student Region Conference 2024.
+            </p>
+          </div>
+        </div>
+
         <div className="card w-full bg-base-100 shadow-xl container">
           <figure className="px-10 pt-10">
             <img
