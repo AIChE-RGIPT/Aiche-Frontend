@@ -134,7 +134,7 @@ function Members() {
               className="object-cover h-32 w-32 rounded-full my-2 manual-shadow2 rotate-on-hover"
             />
 
-            <time className="font-mono italic">Editorial Committee</time>
+            <time className="font-mono italic">Editorial & Documentation Committee</time>
             <div className="text-lg font-black mb-2">Mayank Gupta</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
