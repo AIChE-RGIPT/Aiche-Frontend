@@ -173,7 +173,7 @@ function Members() {
             <div className="text-lg font-black mb-2">Upasana Yadav</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
-              href="https://www.linkedin.com/in/adityakashyap2006/"
+              href="https://www.linkedin.com/in/upasna-yadav-678333263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             >
               KNOW MORE
             </a>
@@ -208,7 +208,7 @@ function Members() {
             <div className="text-lg font-black mb-2">Aditya kumar</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
-              href="https://www.linkedin.com/in/aditya-kumar-35b5a1262/"
+              href="https://www.linkedin.com/in/aditya-kumar-2668a4257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             >
               KNOW MORE
             </a>
@@ -313,7 +313,7 @@ function Members() {
             <div className="text-lg font-black mb-2">Mansi Sisodiya</div>
             <a
               className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 px-4 py-2 rounded-xl"
-              href="https://www.linkedin.com/in/adityakashyap2006/"
+              href="https://www.linkedin.com/in/mansi-sisodiya-1431b3259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
             >
               KNOW MORE
             </a>
