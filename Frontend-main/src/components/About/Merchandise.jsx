@@ -51,28 +51,28 @@ function Merchandise() {
         <div className="carousel carousel-center max-w-6xl p-4 mb-10 space-x-4 bg-amber-100 rounded-box">
           <div className="carousel-item">
             <img
-              src="/t-shirt1.jpg"
+              src="/Zero_Emissions.png"
               className="rounded-box h-96 w-96"
               alt="T-shirt 1"
             />
           </div>
           <div className="carousel-item">
             <img
-              src="/t-shirt2.jpg"
+              src="/Zero_Emissions_back.png"
               className="rounded-box h-96 w-96"
               alt="T-shirt 2"
             />
           </div>
           <div className="carousel-item">
             <img
-              src="/t-shirt3.jpg"
+              src="/catalyst blue.png"
               className="rounded-box h-96 w-96"
               alt="T-shirt 3"
             />
           </div>
           <div className="carousel-item">
             <img
-              src="/t-shirt4.jpg"
+              src="/catalyst blue_back.png"
               className="rounded-box h-96 w-96"
               alt="T-shirt 4"
             />
