@@ -133,7 +133,7 @@ function Merchandise() {
                   <input
                     type="tshirtname"
                     name="tshirtname"
-                    placeholder="tshirtname"
+                    placeholder="Your on Merch Name"
                     onChange={handleChange}
                     className="input input-bordered"
                     required
