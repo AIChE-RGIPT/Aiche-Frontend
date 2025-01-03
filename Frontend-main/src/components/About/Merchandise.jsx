@@ -77,27 +77,27 @@ function Merchandise() {
               alt="T-shirt 4"
             />
           </div>
-          <div className="carousel-item">
+{/*           <div className="carousel-item">
             <img
               src="/t-shirt5.jpg"
               className="rounded-box h-96 w-96"
               alt="T-shirt 5"
             />
-          </div>
-          <div className="carousel-item">
+          </div> */}
+{/*           <div className="carousel-item">
             <img
               src="/t-shirt1.jpg"
               className="rounded-box h-96 w-96"
               alt="T-shirt 1"
             />
-          </div>
-          <div className="carousel-item">
-            <img
-              src="/t-shirt2.jpg"
-              className="rounded-box h-96 w-96"
-              alt="T-shirt 2"
-            />
-          </div>
+          </div> */}
+          // <div className="carousel-item">
+          //   <img
+          //     src="/t-shirt2.jpg"
+          //     className="rounded-box h-96 w-96"
+          //     alt="T-shirt 2"
+          //   />
+          // </div>
         </div>
       </div>
       <div className="flex justify-center items-center">
