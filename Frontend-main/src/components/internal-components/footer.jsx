@@ -44,6 +44,31 @@ function Footer() {
             <br />
             Post Harbanshganj, Amethi - 229304, Uttar Pradesh
           </p>
+          
+          <a 
+  href="https://maps.app.goo.gl/sagyZbCd2uepRG769" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  title="View location on Google Maps" 
+  className="text-yellow-500 hover:underline flex items-center gap-2"
+>
+  <span>View Location</span>
+  <svg 
+    xmlns="http://www.w3.org/2000/svg" 
+    className="w-5 h-5" 
+    fill="none" 
+    viewBox="0 0 24 24" 
+    stroke="currentColor"
+  >
+    <path 
+      strokeLinecap="round" 
+      strokeLinejoin="round" 
+      strokeWidth={2} 
+      d="M12 2C8.13 2 5 5.13 5 9c0 3.87 7 13 7 13s7-9.13 7-13c0-3.87-3.13-7-7-7zM12 11c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2z"
+    />
+  </svg>
+</a>
+
         </aside>
         <nav>
           <h6 className="footer-title">Social</h6>
