@@ -126,6 +126,47 @@ function Merchandise() {
                     required
                   />
                 </div>
+                 <div className="form-control">
+                  <label className="label">
+                    <span className="label-text">Name to be Printed</span>
+                  </label>
+                  <input
+                    type="tshirtname"
+                    name="tshirtname"
+                    placeholder="tshirtname"
+                    onChange={handleChange}
+                    className="input input-bordered"
+                    required
+                  />
+                </div>
+             <div className="form-control">
+                  <label className="label">
+                    <span className="label-text">Size</span>
+                  </label>
+                  <input
+                    type="size"
+                    name="size"
+                    placeholder="Available: S,M,L,XL,XXL"
+                    onChange={handleChange}
+                    className="input input-bordered"
+                    required
+                  />
+                </div>
+                  <div className="form-control">
+                  <label className="label">
+                    <span className="label-text">Cost</span>
+                  </label>
+                  <input
+                    type="cost"
+                    name="cost"
+                    placeholder="Cost"
+                    onChange={handleChange}
+                    className="input input-bordered"
+                    required
+                  />
+                </div>
+                
+                
                 <div className="form-control">
                   <label className="label">
                     <span className="label-text">Contact</span>
@@ -144,7 +185,7 @@ function Merchandise() {
                     type="submit"
                     className="btn bg-amber-300 text-amber-800 hover:bg-amber-400"
                   >
-                    Submit
+                    Submit and Pay
                   </button>
                 </div>
               </form>
