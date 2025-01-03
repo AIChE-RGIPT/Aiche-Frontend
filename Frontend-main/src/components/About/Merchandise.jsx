@@ -154,12 +154,12 @@ function Merchandise() {
                 </div>
                   <div className="form-control">
                   <label className="label">
-                    <span className="label-text">Cost</span>
+                    <span className="label-text">Color</span>
                   </label>
                   <input
-                    type="cost"
-                    name="cost"
-                    placeholder="Cost"
+                    type="model"
+                    name="model"
+                    placeholder="Color"
                     onChange={handleChange}
                     className="input input-bordered"
                     required
