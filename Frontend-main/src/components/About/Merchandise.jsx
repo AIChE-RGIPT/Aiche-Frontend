@@ -47,10 +47,10 @@ function Merchandise() {
       <h1 className="text-center my-8 text-amber-600 text-2xl md:text-3xl font-bold mt-10">
         Exclusive AIChE RGIPT Merchandise
       </h1>
-        <h2 className="text-center my-8 text-amber-600 text-2xl md:text-3xl font-bold mt-10">
+        <h2 className="text-center my-6 text-amber-400 text-2xl md:text-3xl font-bold mt-10">
         Hoodie: Rs 670, Membership+Hoodie: Rs 820
       </h2>
-        <h3 className="text-center my-8 text-amber-600 text-2xl md:text-3xl font-bold mt-10">
+        <h3 className="text-center my-5 text-amber-400 text-2xl md:text-3xl font-bold mt-10">
         Delivery time: Minimum 3 days to Maximum of 7 days
       </h3>
       <div className="flex justify-center items-center">
