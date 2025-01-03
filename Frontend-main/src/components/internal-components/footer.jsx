@@ -36,8 +36,7 @@ function Footer() {
           <p>
             AIChE-RGIPT Student Chapter
             <br />
-            AIChE promotes chemical engineering excellence with resources,
-            networking, and training.
+         
             <br />
            Rajiv Gandhi Institute of Petroleum Technology
             <br />
