@@ -38,6 +38,12 @@ function Footer() {
             <br />
             AIChE promotes chemical engineering excellence with resources,
             networking, and training.
+            <br />
+           Rajiv Gandhi Institute of Petroleum Technology
+            <br />
+            Mubarakhpur Mukhetia More, Bahadurpur, Jais,
+            <br />
+            Post Harbanshganj, Amethi - 229304, Uttar Pradesh
           </p>
         </aside>
         <nav>
