@@ -47,6 +47,12 @@ function Merchandise() {
       <h1 className="text-center my-8 text-amber-600 text-2xl md:text-3xl font-bold mt-10">
         Exclusive AIChE RGIPT Merchandise
       </h1>
+        <h2 className="text-center my-8 text-amber-600 text-2xl md:text-3xl font-bold mt-10">
+        Hoodie: Rs 670, Membership+Hoodie: Rs 820
+      </h2>
+        <h3 className="text-center my-8 text-amber-600 text-2xl md:text-3xl font-bold mt-10">
+        Delivery time: Minimum 3 days to Maximum of 7 days
+      </h3>
       <div className="flex justify-center items-center">
         <div className="carousel carousel-center max-w-6xl p-4 mb-10 space-x-4 bg-amber-100 rounded-box">
           <div className="carousel-item">
@@ -77,27 +83,9 @@ function Merchandise() {
               alt="T-shirt 4"
             />
           </div>
-{/*           <div className="carousel-item">
-            <img
-              src="/t-shirt5.jpg"
-              className="rounded-box h-96 w-96"
-              alt="T-shirt 5"
-            />
-          </div> */}
-{/*           <div className="carousel-item">
-            <img
-              src="/t-shirt1.jpg"
-              className="rounded-box h-96 w-96"
-              alt="T-shirt 1"
-            />
-          </div> */}
-          // <div className="carousel-item">
-          //   <img
-          //     src="/t-shirt2.jpg"
-          //     className="rounded-box h-96 w-96"
-          //     alt="T-shirt 2"
-          //   />
-          // </div>
+
+
+          
         </div>
       </div>
       <div className="flex justify-center items-center">
