@@ -84,10 +84,7 @@ function Merchandise() {
             />
           </div>
 
-     <form>
-                <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Pm8L2ZDpV8b5db" async> 
-                </script>
-              </form>
+  
           
         </div>
       </div>
@@ -183,21 +180,28 @@ function Merchandise() {
                     required
                   />
                 </div>
-                <div className="form-control mt-6">
+                 <div className="form-control mt-6">
                   <button
                     type="submit"
                     className="btn bg-amber-300 text-amber-800 hover:bg-amber-400"
                   >
                     Submit and Pay
                   </button>
-                  
-                 
-                  
                 </div>
               </form>
+            </div>
+            {showRazorpay && (
+              <form>
+                <script
+                  src="https://checkout.razorpay.com/v1/payment-button.js"
+                  data-payment_button_id="pl_Pm8L2ZDpV8b5db"
+                  async
+                ></script>
+              </form>
+            )}
 
-              
-          
+                
+              </form>
 
               
             </div>
