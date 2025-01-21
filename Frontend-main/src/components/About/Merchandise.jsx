@@ -52,6 +52,7 @@ function Merchandise() {
       </h2>
         <h3 className="text-center my-8 text-amber-200 text-2xl md:text-2xl font-bold mt-10">
         Delivery time: Minimum 3 days to Maximum of 7 days, No shipping charges are applicable
+          <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Pm8L2ZDpV8b5db" async> </script> </form>
       </h3>
       <div className="flex justify-center items-center">
         <div className="carousel carousel-center max-w-6xl p-4 mb-10 space-x-4 bg-amber-100 rounded-box">
@@ -189,20 +190,10 @@ function Merchandise() {
                   </button>
                 </div>
               </form>
-            </div>
-            {showRazorpay && (
-              <form>
-                <script
-                  src="https://checkout.razorpay.com/v1/payment-button.js"
-                  data-payment_button_id="pl_Pm8L2ZDpV8b5db"
-                  async
-                ></script>
-              </form>
-            )}
-
-                
+            </div>               
               </form>
 
+          
               
             </div>
             <div className="modal-action w-full">
