@@ -54,6 +54,13 @@ function Merchandise() {
         Delivery time: Minimum 3 days to Maximum of 7 days, No shipping charges are applicable
          
       </h3>
+
+
+      
+      <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Pm8L2ZDpV8b5db" async> </script> </form>
+
+
+      
       <div className="flex justify-center items-center">
         <div className="carousel carousel-center max-w-6xl p-4 mb-10 space-x-4 bg-amber-100 rounded-box">
           <div className="carousel-item">
@@ -84,26 +91,8 @@ function Merchandise() {
               alt="T-shirt 4"
             />
           </div>
-
-  
-          
         </div>
       </div>
-
-
-      
- <div className="form-control mt-6">
-                  <button
-                    type="submit"
-                    className="btn bg-amber-300 text-amber-800 hover:bg-amber-400"
-                  >
-                    Submit and Pay
-                  </button>
-                </div>
-
-
-
-      
       <div className="flex justify-center items-center">
         <button
           className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 mb-20"
@@ -111,6 +100,12 @@ function Merchandise() {
         >
           Buy now
         </button>
+
+
+
+
+
+        
         <dialog id="my_modal_2" className="modal w-[95vw] md:w-full">
           <div className="modal-box flex flex-col items-center ">
             <h3 className="font-bold text-lg mb-4">Fill the form</h3>
