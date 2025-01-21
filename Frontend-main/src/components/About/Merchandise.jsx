@@ -189,6 +189,14 @@ function Merchandise() {
                   </button>
                 </div>
               </form>
+
+              
+              <form>
+                <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Pm8L2ZDpV8b5db" async> 
+                </script>
+              </form>
+
+              
             </div>
             <div className="modal-action w-full">
               <button
