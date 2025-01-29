@@ -81,7 +81,7 @@ function Merchandise() {
       {/* Buy Now Button */}
       <div className="flex justify-center items-center">
         <button className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 mb-20">
-          <a href="https://razorpay.me/@aichergipt" className="block w-full text-center">
+          <a href="https://rzp.io/rzp/D9lrNUU" className="block w-full text-center">
             Buy Now!
           </a>
         </button>
