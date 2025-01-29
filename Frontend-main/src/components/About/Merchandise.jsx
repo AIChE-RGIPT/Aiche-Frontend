@@ -60,13 +60,6 @@ function Merchandise() {
         Delivery time: Minimum 3 days to Maximum of 7 days, No shipping charges are applicable
       </h3>
 
-      {/* Razorpay Payment Button Script */}
-      <script
-        src="https://checkout.razorpay.com/v1/payment-button.js"
-        data-payment_button_id="pl_Pm8L2ZDpV8b5db"
-        async
-      ></script>
-
       {/* Merchandise Carousel */}
       <div className="flex justify-center items-center">
         <div className="carousel carousel-center max-w-6xl p-4 mb-10 space-x-4 bg-amber-100 rounded-box">
@@ -78,13 +71,15 @@ function Merchandise() {
         </div>
       </div>
 
-      {/* Buy Now Button */}
+      {/* Buy Now Button with Razorpay Integration */}
       <div className="flex justify-center items-center">
-        <button className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 mb-20">
-          <a href="https://razorpay.me/@aichergipt" className="block w-full text-center">
-            Buy Now!
-          </a>
-        </button>
+        <form>
+          <script
+            src="https://checkout.razorpay.com/v1/payment-button.js"
+            data-payment_button_id="pl_Pm8L2ZDpV8b5db"
+            async
+          ></script>
+        </form>
       </div>
 
       {/* Modal for Form */}
