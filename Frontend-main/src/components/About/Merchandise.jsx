@@ -98,7 +98,7 @@ function Merchandise() {
           className="btn bg-amber-300 text-amber-800 hover:bg-amber-400 mb-20"
           onClick={() => document.getElementById("my_modal_2").showModal()}
         >
-          Buy now
+          <a href="https://razorpay.me/@aichergipt" class="button">Buy Now!</a>
         </button>
 
 
